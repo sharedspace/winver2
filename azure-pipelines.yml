@@ -26,5 +26,5 @@ steps:
   inputs:
     command: 'build'
     projects: '''$(solution)'''
-    arguments: '-c ''$(buildConfiguration)'' /p:''$(buildPlatform)'' /bl'
+    arguments: '-c ''$(buildConfiguration)'' /bl'
 
