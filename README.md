@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/vmad/GitHubBuilds/_apis/build/status/sharedspace.winver2?branchName=master)](https://dev.azure.com/vmad/GitHubBuilds/_build/latest?definitionId=6&branchName=master)
